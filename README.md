@@ -8,8 +8,7 @@
   
 - 👨‍💻 link para acessar meu portfólio de análises:
 - ANÁLISE DE DADOS - ORLANDO AIRBNB - https://lookerstudio.google.com/s/n30A0aZJRno
- 
-
+- ANÁLISE DE DADOS - SUPERSTORE - https://lookerstudio.google.com/reporting/b884a702-b928-485b-9cff-f3bff559f103
 
 <!---
 rodrigooliveira1994/rodrigooliveira1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
